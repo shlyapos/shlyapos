@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there 👋, my name is Alexander
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shlyapos&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shlyapos&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **shlyapos/shlyapos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
