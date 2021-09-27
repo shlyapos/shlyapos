@@ -17,7 +17,7 @@ I'm Alexander, Fullstack developer from Gubkin, Russia, currently living in Mosc
 ![](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=FFFFFF)
 
 ![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=FFFFFF)
-![](https://img.shields.io/badge/Npm-CB3837?style=flat-square&logo=git&logoColor=FFFFFF)
+![](https://img.shields.io/badge/Npm-CB3837?style=flat-square&logo=npm&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/PhotoShop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=FFFFFF)
 
