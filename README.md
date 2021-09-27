@@ -4,9 +4,9 @@ I'm Alexander, Fullstack developer from Gubkin, Russia, currently living in Mosc
 
 ## :hammer: Things I work with
 
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=FFFFFF)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000000)
 ![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=FFFFFF)
-![](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=FFFFFF)
+![](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=000000)
 ![](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=FFFFFF)
