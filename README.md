@@ -29,7 +29,7 @@ I'm Alexander, Fullstack developer from Gubkin, Russia, currently living in Mosc
 ## :mag: Some info!
 
 - 🔭 I’m currently working on [Git-How-Cool-Are-You](https://github.com/shlyapos/kts-summer-2021-GitHowCoolAU) 
-- 🌱 I’m currently learning JavaScript // React // Redux 
+- 🌱 I’m currently learning React // MobX // Webpack
 
 <!--[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)-->
 
