@@ -2,6 +2,7 @@
 
 I'm Alexander, Fullstack developer from Gubkin, Russia, currently living in Moscow.
 
+<!--
 ## :hammer: Things I work with
 
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000000)
@@ -20,6 +21,7 @@ I'm Alexander, Fullstack developer from Gubkin, Russia, currently living in Mosc
 ![](https://img.shields.io/badge/Npm-CB3837?style=flat-square&logo=npm&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/PhotoShop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=FFFFFF)
+-->
 
 ## :chart_with_upwards_trend: GitHub Stats
 
@@ -29,14 +31,13 @@ I'm Alexander, Fullstack developer from Gubkin, Russia, currently living in Mosc
 ## :mag: Some info!
 
 - 🔭 I’m currently working on - [SoftBox-CPS](https://github.com/SoftBox-CPS/frontend) 
-- 🌱 I’m currently learning - Java
-- 🤔 I want to study in the foreseeable future - Golang, Vue.js
+- 🌱 I’m currently learning - Golang
+<!--- 🤔 I want to study in the foreseeable future - Kafka-->
 
-<!--[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)-->
+<!--[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
 
 ![Profile views](https://gpvc.arturio.dev/shlyapos) 
 
-<!--
 **shlyapos/shlyapos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
