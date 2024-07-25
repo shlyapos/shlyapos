@@ -30,7 +30,7 @@ I'm Alexander, Fullstack developer from Gubkin, Russia, currently living in Mosc
 
 ## :mag: Some info!
 
-- 🔭 I’m currently working on - [SoftBox-CPS](https://github.com/SoftBox-CPS/frontend) 
+<!-- 🔭 I’m currently working on - [SoftBox-CPS](https://github.com/SoftBox-CPS/frontend) -->
 - 🌱 I’m currently learning - Golang
 <!--- 🤔 I want to study in the foreseeable future - Kafka-->
 
